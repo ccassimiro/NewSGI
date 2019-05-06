@@ -1,0 +1,5 @@
+C:\Users\Lucas\source\repos\SGI\SGI.Domain\bin\Debug\SGI.Domain.dll
+C:\Users\Lucas\source\repos\SGI\SGI.Domain\bin\Debug\SGI.Domain.pdb
+C:\Users\Lucas\source\repos\SGI\SGI.Domain\obj\Debug\SGI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SGI\SGI.Domain\obj\Debug\SGI.Domain.dll
+C:\Users\Lucas\source\repos\SGI\SGI.Domain\obj\Debug\SGI.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\SGI.Infra.Data.dll.config
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\SGI.Infra.Data.dll
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\SGI.Infra.Data.pdb
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\SGI.Domain.dll
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\SGI.Domain.pdb
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\obj\Debug\SGI.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\obj\Debug\SGI.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\obj\Debug\SGI.Infra.Data.csproj.CopyComplete
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\obj\Debug\SGI.Infra.Data.dll
+C:\Users\Lucas\source\repos\SGI\SGI.Infra.Data\obj\Debug\SGI.Infra.Data.pdb
